@@ -65,8 +65,6 @@ airflow dags backfill -s <start_date> -e <end_date> --reser_dagruns (useful to r
 
 ```
 
-
-image-20220309224228386.png
 ![image-20220309224228386](img/image-20220309224228386.png)
 
 ## REST APIs
